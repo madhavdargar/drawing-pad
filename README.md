@@ -1,4 +1,4 @@
-# drawing-pad
+# Drawing Pad
 I made this Drawing Pad, using HTML, CSS and Vanilla JavaScript.
 
 This Drawing Pad has 4 basic buttons:
