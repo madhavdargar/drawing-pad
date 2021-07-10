@@ -1,4 +1,5 @@
-# Drawing Pad
+# WhiteBoard
+
 I made this WhiteBoard using HTML, CSS, and JavaScript. 
 
 
